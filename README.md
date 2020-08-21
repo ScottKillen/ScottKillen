@@ -16,9 +16,9 @@
 
 ### Look me up
 
-[<img align="left" alt="ScottKillen | Twitter" width="22px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/twitter-color.svg" />][twitter]
-[<img align="left" alt="ScottDKillen | Instagram" width="22px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/instagram-color.svg" />][instagram]
-[<img align="left" alt="ScottKillen | Flickr" width="22px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/flickr-color.svg" />][flickr]
+[<img align="left" alt="ScottKillen | Twitter" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/twitter-color.svg" />][twitter]
+[<img align="left" alt="ScottDKillen | Instagram" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/instagram-color.svg" />][instagram]
+[<img align="left" alt="ScottKillen | Flickr" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/flickr-color.svg" />][flickr]
 
 [cpa]: https://www.investopedia.com/terms/c/cpa.asp
 [church]: https://edistochurch.org/
