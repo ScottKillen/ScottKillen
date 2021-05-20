@@ -30,7 +30,7 @@
 
 ### Github Stats
 
-<img align="left" alt="ScottKillen's Github Stats" src="https://github-readme-stats.scottkillen.vercel.app/api?username=scottkillen&show_icons=true&theme=tokyonight" />
+[![ScottKillen's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottkillen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [cpa]: https://www.investopedia.com/terms/c/cpa.asp
 [church]: https://edistochurch.org/
