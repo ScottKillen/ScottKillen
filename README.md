@@ -1,7 +1,5 @@
 # Scott Killen👨‍💼
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ScottKillen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FScottKillen&screen_name=ScottKillen)
-
 ## About Me
 
 - 🧮 By day I'm a [Certified Public Accountant][cpa].
