@@ -12,9 +12,6 @@
   - 🎲 Puzzles and games
   - 🖊 Writing
 
-## Spotify:
-[![Spotify](https://spotify-now-playing-scottdkillen.vercel.app/api/spotify)](https://open.spotify.com/user/sdkillen)
-
 ### Look me up
 
 [<img align="left" alt="ScottKillen | Twitter" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/twitter-color.svg" />][twitter]
