@@ -8,7 +8,7 @@
   - 📖 Bible study
   - 💻 Software and technology
   - 📷 Photography
-  - 📐 Carpentry and woodworking <img align="right" src="https://github-readme-stats.vercel.app/api?username=scottkillen&show_icons=true&theme=dark&title_color=58a6ff&bg_color=0D1117" />
+  - 📐 Carpentry and woodworking <img align="right" src="https://github-readme-stats.vercel.app/api?username=scottkillen&show_icons=true&theme=dark&title_color=58a6ff&bg_color=0D1117&border_color=30363d" />
   - 🎲 Puzzles and games
   - 🖊 Writing
 
