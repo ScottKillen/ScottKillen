@@ -24,3 +24,5 @@
 [social]: https://pkm.social/@scottkillen
 [instagram]: https://www.instagram.com/scottdkillen/
 [flickr]: https://www.flickr.com/photos/scottkillen/
+
+<a href="https://pkm.social/@scottkillen" rel="me"></a>
