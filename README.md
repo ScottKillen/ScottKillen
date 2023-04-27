@@ -1,4 +1,5 @@
 # Scott Killen👨‍💼
+
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottkillen&layout=compact&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=58a6ff&bg_color=0D1117&hide_border=true"/>
 ## About Me
 
@@ -14,12 +15,12 @@
 
 ### Look me up
 
-[<img align="left" alt="ScottKillen | Twitter" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/twitter-color.svg" />][twitter]
+[<img align="left" alt="ScottKillen | Twitter" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/mastodon-color.svg" />][social]
 [<img align="left" alt="ScottDKillen | Instagram" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/instagram-color.svg" />][instagram]
 [<img align="left" alt="ScottKillen | Flickr" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/flickr-color.svg" />][flickr]
 
 [cpa]: https://www.investopedia.com/terms/c/cpa.asp
 [church]: https://edistochurch.org/
-[twitter]: https://twitter.com/ScottKillen
+[social]: https://pkm.social/@scottkillen
 [instagram]: https://www.instagram.com/scottdkillen/
 [flickr]: https://www.flickr.com/photos/scottkillen/
