@@ -18,9 +18,9 @@
 
 [<img align="left" alt="ScottKillen | Mastodon" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/mastodon-color.svg" />][social]
 [<img align="left" alt="ScottDKillen | Instagram" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/instagram-color.svg" />][instagram]
-[<img align="left" alt="ScottKillen | Flickr" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/flickr-color.svg" />][flicker]
+[<img align="left" alt="ScottKillen | Flickr" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/flickr-color.svg" />][flickr]
 
-<be>
+<br>
 
 ---
 
