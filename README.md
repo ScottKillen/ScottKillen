@@ -20,9 +20,11 @@
 [<img align="left" alt="ScottDKillen | Instagram" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/instagram-color.svg" />][instagram]
 [<img align="left" alt="ScottKillen | Flickr" width="32px" src="https://raw.githubusercontent.com/ScottKillen/ScottKillen/master/flickr-color.svg" />][flicker]
 
+---
+
 ### Projects
 
-| Project | Description |
+| | Description |
 | - | - |
 | [dotfiles](https://github.com/ScottKillen/dotfiles) | 💾 Config files for my *nix systems. |
 | [obsidian-snippets](https://github.com/ScottKillen/obsidian-snippets) | 💧 CSS snippets to tweak [Obsidian](https://obsidian.md) |
