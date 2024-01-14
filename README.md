@@ -29,7 +29,6 @@
 | | Description |
 | - | - |
 | [dotfiles](https://github.com/ScottKillen/dotfiles) | 💾 Config files for my *nix systems. |
-| [obsidian-snippets](https://github.com/ScottKillen/obsidian-snippets) | 💧 CSS snippets to tweak [Obsidian](https://obsidian.md) |
 | [obsidian-custom-callouts](https://github.com/ScottKillen/obsidian-custom-callouts) | 💧 Custom Callouts for [Obsidian](https://obsidian.md) |
 | [robocopy-jobs](https://github.com/ScottKillen/robocopy-jobs) | 🤖 Config files for various jobs performed by robocopy |
 | [userstyles](https://github.com/ScottKillen/userstyles) | 👨‍🎨 source for my user themes |
